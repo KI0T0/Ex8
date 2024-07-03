@@ -12,5 +12,7 @@ public class Main {
 
         System.out.println(verifica.ChecaStr("", "abc"));
 
+        System.out.println(verifica.ChecaStr("Teste", "te"));
+
     }
 }
